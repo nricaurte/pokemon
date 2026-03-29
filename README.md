@@ -225,6 +225,12 @@ Una vez conectado, puedes pedirle a Claude cosas como:
 
 ---
 
+## Quieres construir mas?
+
+Revisa **[AGENTS.md](AGENTS.md)** — 10 ideas de agentes que puedes construir sobre este proyecto, desde un narrador de historias hasta un sistema multi-agente de soporte al cliente.
+
+---
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="80" alt="Bulbasaur"/>
