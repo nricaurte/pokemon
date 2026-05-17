@@ -33,7 +33,7 @@ gem "kamal", require: false
 gem "thruster", require: false
 
 # MongoDB ODM
-gem "mongoid", "~> 9.0"
+gem "mongoid", "~> 9.1"
 
 # HTTP client for PokeAPI
 gem "httparty"
